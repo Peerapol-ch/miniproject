@@ -78,7 +78,7 @@ namespace Ex13
         {
             FormLogin Flog = new FormLogin();
             Flog.ShowDialog();
-            // code ดักควาย
+           
             if (loginstat == "")
             {
                 Application.Exit();
