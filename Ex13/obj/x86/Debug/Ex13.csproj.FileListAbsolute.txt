@@ -1,0 +1,28 @@
+C:\Users\SCILXXWSXX\Documents\Visual Studio 2010\Projects\Peerapo 036-8\Ex13\Ex13\bin\Debug\Ex13.exe
+C:\Users\SCILXXWSXX\Documents\Visual Studio 2010\Projects\Peerapo 036-8\Ex13\Ex13\bin\Debug\Ex13.pdb
+C:\Users\SCILXXWSXX\Documents\Visual Studio 2010\Projects\Peerapo 036-8\Ex13\Ex13\obj\x86\Debug\Ex13.FormMain.resources
+C:\Users\SCILXXWSXX\Documents\Visual Studio 2010\Projects\Peerapo 036-8\Ex13\Ex13\obj\x86\Debug\Ex13.Properties.Resources.resources
+C:\Users\SCILXXWSXX\Documents\Visual Studio 2010\Projects\Peerapo 036-8\Ex13\Ex13\obj\x86\Debug\Ex13.csproj.GenerateResource.Cache
+C:\Users\SCILXXWSXX\Documents\Visual Studio 2010\Projects\Peerapo 036-8\Ex13\Ex13\obj\x86\Debug\Ex13.exe
+C:\Users\SCILXXWSXX\Documents\Visual Studio 2010\Projects\Peerapo 036-8\Ex13\Ex13\obj\x86\Debug\Ex13.pdb
+C:\Users\SCILXXWSXX\Documents\Visual Studio 2010\Projects\Peerapo 036-8\Ex13\Ex13\obj\x86\Debug\Ex13.FormLogin.resources
+C:\Users\SCILXXWSXX\Documents\Visual Studio 2010\Projects\Peerapo 036-8\Ex13\Ex13\obj\x86\Debug\Ex13.csprojResolveAssemblyReference.cache
+C:\Users\SCILXXWSXX\Documents\Visual Studio 2010\Projects\Peerapo 036-8\Ex13\Ex13\obj\x86\Debug\Ex13.FormMember.resources
+C:\Users\SCILXXWSXX\Documents\Visual Studio 2010\Projects\Peerapo 036-8\Ex13\Ex13\obj\x86\Debug\Ex13.FormAdmin.resources
+C:\Users\SCILXXWSXX\Documents\Visual Studio 2010\Projects\Peerapo 036-8\Ex13\Ex13\obj\x86\Debug\Ex13.FormFoods.resources
+C:\Users\SCILXXWSXX\Documents\Visual Studio 2010\Projects\Peerapo 036-8\Ex13\Ex13\obj\x86\Debug\Ex13.FormDrink.resources
+C:\Users\SCILXXWSXX\Documents\Visual Studio 2010\Projects\Peerapo 036-8\Ex13\Ex13\obj\x86\Debug\Ex13.FormDessert.resources
+E:\Ex13\Ex13\obj\x86\Debug\Ex13.exe
+E:\Ex13\Ex13\obj\x86\Debug\Ex13.pdb
+E:\Ex13\Ex13\bin\Debug\Ex13.exe
+E:\Ex13\Ex13\bin\Debug\Ex13.pdb
+E:\Ex13\Ex13\obj\x86\Debug\Ex13.csprojResolveAssemblyReference.cache
+E:\Ex13\Ex13\obj\x86\Debug\Ex13.FormAdmin.resources
+E:\Ex13\Ex13\obj\x86\Debug\Ex13.FormDessert.resources
+E:\Ex13\Ex13\obj\x86\Debug\Ex13.FormDrink.resources
+E:\Ex13\Ex13\obj\x86\Debug\Ex13.FormFoods.resources
+E:\Ex13\Ex13\obj\x86\Debug\Ex13.FormLogin.resources
+E:\Ex13\Ex13\obj\x86\Debug\Ex13.FormMain.resources
+E:\Ex13\Ex13\obj\x86\Debug\Ex13.FormMember.resources
+E:\Ex13\Ex13\obj\x86\Debug\Ex13.Properties.Resources.resources
+E:\Ex13\Ex13\obj\x86\Debug\Ex13.csproj.GenerateResource.Cache
